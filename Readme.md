@@ -3,7 +3,7 @@
 
 * [ContentPage.aspx](./CS/WebSite/ContentPage.aspx) (VB: [ContentPage.aspx](./VB/WebSite/ContentPage.aspx))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxSplitter - How to return a value from a page specified via SplitterPane.ContentUrl
 
