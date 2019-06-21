@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxSplitter - How to return a value from a page specified via SplitterPane.ContentUrl
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3614/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to return a value from a page specified via SplitterPane.ContentUrl and show this value in an external label placed within a main page. </p><p><strong>See </strong><strong>A</strong><strong>lso:</strong><strong><br />
